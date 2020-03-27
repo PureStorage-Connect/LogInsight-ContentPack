@@ -22,7 +22,7 @@
 <p>New Features in this release</p>
 <!-- /wp:paragraph -->
 
-<ul><li>vVol support</li><li>Improved scale and performance of discovery</li><li>Active Cluster<span style="font-size: 1rem;"> </span></li><li>Volume Groups</li><li>Various bug fixes </li></ul>
+<ul><li>vVol support</li><li>Active Cluster<span style="font-size: 1rem;"> </span></li><li>Volume Groups</li><li>Various bug fixes </li></ul>
 <!-- wp:separator -->
 <hr class="wp-block-separator"/>
 <!-- /wp:separator -->
